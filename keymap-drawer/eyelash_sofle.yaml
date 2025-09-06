@@ -63,8 +63,8 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - '2'
-  - {t: '-', s: _}
-  - C
+  - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-control$$
   layer1:
   - {t: '`', s: '~'}
   - F1
