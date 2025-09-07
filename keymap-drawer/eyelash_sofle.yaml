@@ -62,8 +62,8 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
-  - '2'
   - $$mdi:apple-keyboard-option$$
+  - '2'
   - {t: /, s: '?'}
   layer1:
   - {t: '`', s: '~'}
@@ -192,8 +192,8 @@ layers:
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   '3':
   - A
